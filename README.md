@@ -399,24 +399,13 @@ Exploring and building across:
 
 ### `EVERY COMMIT LEAVES A WEB`
 
-## 🕸️ SPIDER-CODER CRAWL
-
-<img src="https://raw.githubusercontent.com/20chaudharyabhinav2007-dot/20chaudharyabhinav2007-dot/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/20chaudharyabhinav2007-dot/20chaudharyabhinav2007-dot/gh-pages/github-contribution-grid-snake-dark.svg" />
 
 ### `BUILDING EVERY DAY • ONE COMMIT AT A TIME`
 
-</div>
-
-
-
 `🕷️ ───── 🕸️ ───── 🕷️`
 
-
-`BUILDING EVERY DAY • ONE COMMIT AT A TIME`
-
-
 </div>
-
 
 ---
 
