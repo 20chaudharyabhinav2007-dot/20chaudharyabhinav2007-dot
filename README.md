@@ -3,18 +3,24 @@
 
 # 🕷️ ABHINAV CHAUDHARY
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPmM4yP8d9dQYhG/giphy.gif" width="500">
-</p>
+
 
 
 ### `CSE @ JUIT` • `AI/ML BUILDER` • `PROBLEM SOLVER`
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPmM4yP8d9dQYhG/giphy.gif" width="500">
+</p>
 
 
 `AI/ML` • `COMPUTER VISION` • `DSA` • `FULL-STACK DEVELOPMENT`
 
 
 ## 🕸️ THE SPIDER-CODER
+
+<p align="center">
+  <img src="./assets/spiderman.gif" width="500">
+</p>
 
 
 ### `CODE • BUILD • COMPETE • REPEAT`
@@ -63,6 +69,9 @@
 
 ## 🎬 AI REEL GENERATOR
 
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-FF0000?style=for-the-badge&logo=github" />
+</p>
 
 ### `IMAGES + TEXT → AI VOICE → VIDEO → REEL`
 
@@ -383,17 +392,18 @@ Exploring and building across:
 
 # 🕷️ CONTRIBUTION WEB
 
-
 <div align="center">
-
 
 ### `EVERY COMMIT LEAVES A WEB`
 
-
 ## 🕸️ SPIDER-CODER CRAWL
 
+<img src="https://raw.githubusercontent.com/20chaudharyabhinav2007-dot/20chaudharyabhinav2007-dot/output/github-contribution-grid-snake.svg" />
 
-**Building every day. One commit at a time.**
+### `BUILDING EVERY DAY • ONE COMMIT AT A TIME`
+
+</div>
+
 
 
 `🕷️ ───── 🕸️ ───── 🕷️`
