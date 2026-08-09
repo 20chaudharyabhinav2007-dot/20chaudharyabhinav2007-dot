@@ -423,17 +423,14 @@ Exploring and building across:
 
 # 📊 GITHUB ACTIVITY
 
-
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=20chaudharyabhinav2007-dot&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E62429&icon_color=E62429&text_color=FFFFFF" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=20chaudharyabhinav2007-dot&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E62429&icon_color=E62429&text_color=FFFFFF" width="48%" />
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=20chaudharyabhinav2007-dot&theme=dark&hide_border=true&background=0D1117&ring=E62429&fire=E62429&currStreakLabel=FFFFFF" width="48%" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=20chaudharyabhinav2007-dot&theme=dark&hide_border=true&background=0D1117&ring=E62429&fire=E62429&currStreakLabel=FFFFFF" width="49%" />
 
 </div>
+
 
 
 ---
@@ -540,7 +537,9 @@ Exploring and building across:
 
 
 ### **BUILD SOMETHING WORTH REMEMBERING.**
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=20chaudharyabhinav2007-dot&label=PROFILE%20VIEWS&color=E62429&style=for-the-badge" />
+</p>
 
 🕷️
 
