@@ -3,6 +3,10 @@
 
 # 🕷️ ABHINAV CHAUDHARY
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPmM4yP8d9dQYhG/giphy.gif" width="500">
+</p>
+
 
 ### `CSE @ JUIT` • `AI/ML BUILDER` • `PROBLEM SOLVER`
 
