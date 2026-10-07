@@ -1,166 +1,70 @@
 <div align="center">
 
+🕷️ ABHINAV CHAUDHARY
 
-# 🕷️ ABHINAV CHAUDHARY
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPmM4yP8d9dQYhG/giphy.gif" width="500">
-</p>
+<p align="center"> <img src="https://media.giphy.com/media/3oKIPmM4yP8d9dQYhG/giphy.gif" width="500"> </p>
 
+CSE @ JUIT • AI/ML BUILDER • PROBLEM SOLVER
 
+AI/ML • COMPUTER VISION • DSA • FULL-STACK DEVELOPMENT
 
+🕸️ THE SPIDER-CODER
 
-### `CSE @ JUIT` • `AI/ML BUILDER` • `PROBLEM SOLVER`
+<p align="center"> <img src="./assets/spiderman.gif" width="500"> </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPmM4yP8d9dQYhG/giphy.gif" width="500">
-</p>
+CODE • BUILD • COMPETE • REPEAT
 
-
-`AI/ML` • `COMPUTER VISION` • `DSA` • `FULL-STACK DEVELOPMENT`
+Turning ideas into systems, projects into experience, and problems into solutions.
 
 
-## 🕸️ THE SPIDER-CODER
-
-<p align="center">
-  <img src="./assets/spiderman.gif" width="500">
-</p>
 
 
-### `CODE • BUILD • COMPETE • REPEAT`
 
-
-*Turning ideas into systems, projects into experience, and problems into solutions.*
-
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/20chaudharyabhinav2007-dot)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Abhinav_2007/)
 
 
 </div>
 
+👋 ABOUT ME
 
----
+🎓 Computer Science Engineering @ Jaypee University of Information Technology
 
+🧠 Building in AI/ML, Computer Vision & Intelligent Systems
 
-## 👋 ABOUT ME
+💻 Working with C++, Python, JavaScript & Full-Stack Development
 
+🤖 Interested in AI Engineering, Automation & Computer Vision
 
-🎓 **Computer Science Engineering @ JUIT**
+🏆 Hackathons • Team Leadership • Competitive Programming
 
+⚡ Currently going deeper into DSA & Advanced AI/ML
 
-🧠 Building in **AI/ML, Computer Vision & DSA**
-
-
-💻 Working with **C++, Python, JavaScript & Full-Stack Development**
-
-
-🏆 **Hackathons • Team Leadership • Project Building**
-
-
-⚡ Currently going deeper into **DSA & Advanced AI/ML**
-
-
----
-
-
-# ⚡ CURRENTLY BUILDING
-
+🚀 WHAT I'M WORKING ON
 
 <div align="center">
 
-
-## 🎬 AI REEL GENERATOR
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-FF0000?style=for-the-badge&logo=github" />
-</p>
-
-### `IMAGES + TEXT → AI VOICE → VIDEO → REEL`
-
-
-`Python` `Flask` `ElevenLabs` `FFmpeg`
-
+AI/ML • COMPUTER VISION • DSA • INTELLIGENT SYSTEMS
 
 </div>
 
+Currently focused on:
 
-An AI-powered reel generation pipeline that transforms user-provided images and descriptions into narrated vertical videos.
+Advanced AI/ML • Deep Learning • Computer Vision
 
+DSA • Competitive Programming • Problem Solving
 
-```text
+AI Engineering • Automation • Full-Stack Systems
 
-USER INPUT
-
-   │
-
-   ├── Images
-
-   └── Description
-
-          │
-
-          ▼
-
-   AI TEXT-TO-SPEECH
-
-          │
-
-          ▼
-
-      AUDIO FILE
-
-          │
-
-          ▼
-
-        FFmpeg
-
-          │
-
-          ▼
-
-    1080 × 1920 VIDEO
-
-          │
-
-          ▼
-
-        🎬 REEL
-
-```
-
-
----
-
-
-# 🏆 ACHIEVEMENTS & HACKATHONS
-
-
-| Event | Result |
-
-|---|---|
-
-| 🏆 **IEEE Robothon 2026** | **WINNER • TEAM LEAD** |
-
-| 🥉 **Embedded Expo — IEEE × JUIT** | **3RD POSITION** |
-
-| 💡 **NVIDIA Ideathon 2025** | **FINAL STAGE • TEAM LEAD** |
-
-| 🧬 **BioHackathon** | **QUALIFIED MID-EVALUATION** |
-
-| 🚀 **Smart India Hackathon 2025** | **QUALIFIED MID-EVALUATION • TEAM LEAD** |
-
-| ⚡ **NVIDIA Hackathon** | **PARTICIPANT** |
-
-| 🥈 **Code Royale** | **2ND POSITION** |
-
-
----
-
-
-# 🚀 FEATURED PROJECTS
-
+LEARN → BUILD → COMPETE → SHIP
+🏆 ACHIEVEMENTS & HACKATHONS
+Event	Result
+🏆 IEEE Robothon 2026	WINNER • TEAM LEAD
+🥉 Embedded Expo — IEEE × JUIT	3RD POSITION
+💡 NVIDIA Ideathon 2025	FINAL STAGE • TEAM LEAD
+🧬 BioHackathon	QUALIFIED MID-EVALUATION
+🚀 Smart India Hackathon 2025	QUALIFIED MID-EVALUATION • TEAM LEAD
+⚡ NVIDIA Hackathon	PARTICIPANT
+🥈 Code Royale	2ND POSITION
+🚀 FEATURED PROJECTS
 
 <table>
 
@@ -168,145 +72,96 @@ USER INPUT
 
 <td width="50%" valign="top">
 
+🚨 Crowd Stampede Prediction
+COMPUTER VISION × AI × IoT
 
-## 🚨 Crowd Stampede Prediction
+Tech Stack
 
+YOLOv8 OpenCV Raspberry Pi 5
 
-### `COMPUTER VISION × AI × IoT`
+Intel RealSense D457 Optical Flow Flask
 
+🔥 Features
+Real-time crowd monitoring
+YOLO-based detection
+Crowd density analysis
+Optical flow analysis
+Background subtraction
+3 × 3 zonal analysis
+Depth-camera integration
+Flask monitoring dashboard
 
-**Tech Stack**
-
-
-`YOLOv8` `OpenCV` `Raspberry Pi 5`  
-
-`Intel RealSense D457` `Optical Flow` `Flask`
-
-
-### 🔥 Features
-
-
-- Real-time crowd monitoring
-
-- YOLO-based detection
-
-- Crowd density analysis
-
-- Optical flow analysis
-
-- Background subtraction
-
-- 3 × 3 zonal analysis
-
-- Depth-camera integration
-
-- Flask monitoring dashboard
-
-
-**Goal:** Detect potentially dangerous crowd behaviour in real time.
-
+Goal: Detect potentially dangerous crowd behaviour in real time.
 
 </td>
 
 <td width="50%" valign="top">
 
+🎬 AI Reel Generator
+AI × AUTOMATION × VIDEO
 
-## 🎬 AI Reel Generator
+<p> <img src="https://img.shields.io/badge/STATUS-COMPLETED-00C853?style=for-the-badge&logo=github" /> </p>
 
+Tech Stack
 
-### `AI × AUTOMATION × VIDEO`
+Python Flask ElevenLabs
 
+FFmpeg HTML CSS JavaScript
 
-**Tech Stack**
+🔥 Features
+Image + text input
+AI text-to-speech
+Automated audio generation
+FFmpeg video processing
+1080 × 1920 vertical output
+Automated reel generation
+Web interface
 
-
-`Python` `Flask` `ElevenLabs`  
-
-`FFmpeg` `HTML` `CSS` `JavaScript`
-
-
-### 🔥 Features
-
-
-- Image + text input
-
-- AI text-to-speech
-
-- Automated audio generation
-
-- FFmpeg video processing
-
-- 1080 × 1920 vertical output
-
-- Automated reel pipeline
-
-- Web interface
-
-
-**Goal:** Turn ideas into narrated short-form videos.
-
+Result: A complete AI-powered pipeline for generating narrated short-form videos.
 
 </td>
 
 </tr>
 
-
 <tr>
 
 <td width="50%" valign="top">
 
+🚗 Vehicle Service Center
+C++ × OOP × DATA STRUCTURES
 
-## 🚗 Vehicle Service Center
+Tech Stack
 
+C++ OOP Templates Linked Lists
 
-### `C++ × OOP × DATA STRUCTURES`
+🧩 Concepts
 
+Inheritance • Polymorphism
 
-**Tech Stack**
+Virtual Functions • Templates
 
+Operator Overloading • Dynamic Memory
 
-`C++` `OOP` `Templates` `Linked Lists`
-
-
-### 🧩 Concepts
-
-
-`Inheritance` `Polymorphism`  
-
-`Virtual Functions` `Templates`  
-
-`Operator Overloading` `Dynamic Memory`
-
-
-[🔗 **VIEW PROJECT →**](https://github.com/20chaudharyabhinav2007-dot/Vehicle-Service-Center-Management-System)
-
+🔗 VIEW PROJECT →
 
 </td>
 
 <td width="50%" valign="top">
 
-
-## ⚡ More Builds
-
-
-### `8+ PROJECTS`
-
+🤖 More Builds
+8+ PROJECTS
 
 Exploring and building across:
 
+AI ML Computer Vision
 
-`AI` `ML` `Computer Vision`  
+Web Development C++
 
-`Web Development` `C++`  
+Automation Software Systems
 
-`Automation` `Software Systems`
+Build Philosophy
 
-
-### Build Philosophy
-
-
-`IDEA → BUILD → DEBUG → IMPROVE → SHIP`
-
+IDEA → BUILD → DEBUG → IMPROVE → SHIP
 
 </td>
 
@@ -314,103 +169,67 @@ Exploring and building across:
 
 </table>
 
-
----
-
-
-# 🧠 DSA
-
+🧠 DSA
 
 <div align="center">
 
+DATA STRUCTURES & ALGORITHMS
 
-### `DATA STRUCTURES & ALGORITHMS`
-
-
-**LEARN • SOLVE • OPTIMIZE • REPEAT**
-
+LEARN • SOLVE • OPTIMIZE • REPEAT
 
 </div>
 
+🎯 CURRENT FOCUS
 
-### 🎯 CURRENT FOCUS
+Arrays • Strings • Linked Lists
 
+Stacks & Queues • Binary Search
 
-`Arrays` • `Strings` • `Linked Lists`
+Recursion • Trees • Graphs
 
+Dynamic Programming • Competitive Programming
 
-`Stacks & Queues` • `Binary Search`
-
-
-`Recursion` • `Trees` • `Graphs`
-
-
-`Dynamic Programming` • `Competitive Programming`
-
-
----
-
-
-# ⚙️ TECH ARSENAL
-
+⚙️ TECH ARSENAL
 
 <div align="center">
 
-
-### 💻 LANGUAGES
-
+💻 LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
 
-
-### 🧠 AI / COMPUTER VISION
-
+🧠 AI / COMPUTER VISION
 
 <img src="https://skillicons.dev/icons?i=python,opencv" />
 
+Machine Learning • YOLOv8 • Computer Vision
 
-`Machine Learning` • `YOLOv8` • `Computer Vision`
-
-
-### 🌐 DEVELOPMENT
-
+🌐 DEVELOPMENT
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,flask" />
 
-
-### 🛠️ TOOLS
-
+🛠️ TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-
-`FFmpeg` • `SQL`
-
+FFmpeg • SQL
 
 </div>
 
-
----
-
-
-# 🕷️ CONTRIBUTION WEB
+🕷️ CONTRIBUTION WEB
 
 <div align="center">
 
-### `EVERY COMMIT LEAVES A WEB`
+EVERY COMMIT LEAVES A WEB
 
 <img src="https://raw.githubusercontent.com/20chaudharyabhinav2007-dot/20chaudharyabhinav2007-dot/gh-pages/github-contribution-grid-snake-dark.svg" />
 
-### `BUILDING EVERY DAY • ONE COMMIT AT A TIME`
+BUILDING EVERY DAY • ONE COMMIT AT A TIME
 
-`🕷️ ───── 🕸️ ───── 🕷️`
+🕷️ ───── 🕸️ ───── 🕷️
 
 </div>
 
----
-
-
-# 📊 GITHUB ACTIVITY
+📊 GITHUB ACTIVITY
 
 <div align="center">
 
@@ -420,117 +239,57 @@ Exploring and building across:
 
 </div>
 
-
-
----
-
-
-# 📈 CODING JOURNEY
-
+📈 CODING JOURNEY
 
 <div align="center">
 
-
-```text
-
 ┌──────────────┐
-
 │    LEARN     │
-
 └──────┬───────┘
-
        ↓
-
 ┌──────────────┐
-
 │    BUILD     │
-
 └──────┬───────┘
-
        ↓
-
 ┌──────────────┐
-
 │   COMPETE    │
-
 └──────┬───────┘
-
        ↓
-
 ┌──────────────┐
-
 │    DEBUG     │
-
 └──────┬───────┘
-
        ↓
-
 ┌──────────────┐
-
 │   IMPROVE    │
-
 └──────┬───────┘
-
        ↓
-
 ┌──────────────┐
-
 │     SHIP     │
-
 └──────────────┘
-
-```
-
-
-### `BUILD • BREAK • DEBUG • REBUILD`
-
+BUILD • BREAK • DEBUG • REBUILD
 
 </div>
 
-
----
-
-
-# 🎯 CURRENT MISSION
-
+🎯 CURRENT MISSION
 
 <div align="center">
 
-
-| 🧠 LEVEL UP | 🚀 BUILD | 🏆 COMPETE |
-
-|---|---|---|
-
-| DSA | AI/ML Systems | Hackathons |
-
-| Advanced AI/ML | Computer Vision | Coding Contests |
-
-| Competitive Programming | Full-Stack Apps | Open Source |
-
-| Problem Solving | Intelligent Automation | Team Projects |
-
-
-### `BUILD → COMPETE → SHIP → REPEAT`
-
+🧠 LEVEL UP	🚀 BUILD	🏆 COMPETE
+DSA	AI/ML Systems	Hackathons
+Advanced AI/ML	Computer Vision	Coding Contests
+Deep Learning	Full-Stack Apps	Open Source
+Problem Solving	Intelligent Automation	Team Projects
+BUILD → COMPETE → SHIP → REPEAT
 
 </div>
 
-
----
-
-
 <div align="center">
 
+🕸️ THE CODE IS THE WEB.
+BUILD SOMETHING WORTH REMEMBERING.
 
-# 🕸️ `THE CODE IS THE WEB.`
-
-
-### **BUILD SOMETHING WORTH REMEMBERING.**
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=20chaudharyabhinav2007-dot&label=PROFILE%20VIEWS&color=E62429&style=for-the-badge" />
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=20chaudharyabhinav2007-dot&label=PROFILE%20VIEWS&color=E62429&style=for-the-badge" /> </p>
 
 🕷️
-
 
 </div>
