@@ -1,30 +1,16 @@
 <div align="center">
 
-
 # 🕷️ ABHINAV CHAUDHARY
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPmM4yP8d9dQYhG/giphy.gif" width="500">
-</p>
 
-
-
+<img src="./assets/spiderman.gif" width="500">
 
 ### `CSE @ JUIT` • `AI/ML BUILDER` • `PROBLEM SOLVER`
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPmM4yP8d9dQYhG/giphy.gif" width="500">
-</p>
-
-
 `AI/ML` • `COMPUTER VISION` • `DSA` • `FULL-STACK DEVELOPMENT`
 
+### `CODE • BUILD • COMPETE • REPEAT`
 
-## 🕸️ THE SPIDER-CODER
-
-<p align="center">
-  <img src="./assets/spiderman.gif" width="500">
-</p>
-
+</div>
 
 ### `CODE • BUILD • COMPETE • REPEAT`
 
